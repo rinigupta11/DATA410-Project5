@@ -376,5 +376,11 @@ Average L2 Distance to Ideal: 2.0912826537192526
 
 #### References 
 
-BELLONI, A., CHERNOZHUKOV, V., & WANG, L. (2011). Square-root lasso: pivotal recovery of sparse signals via conic programming. Biometrika, 98(4), 791–806. http://www.jstor.org/stable/23076172
+Belloni, A., Chernozhukov, V., & Wang, L. (2011). Square-root lasso: pivotal recovery of sparse signals via conic programming. Biometrika, 98(4), 791–806. http://www.jstor.org/stable/23076172
+
+Gupta, A. (2020, December 2). Feature selection techniques in machine learning. Analytics Vidhya. Retrieved April 1, 2022, from https://www.analyticsvidhya.com/blog/2020/10/feature-selection-techniques-in-machine-learning/ 
+
+Jones, A. (2020, March 27). The smoothly clipped absolute deviation (SCAD) penalty. Andy Jones. Retrieved April 1, 2022, from https://andrewcharlesjones.github.io/journal/scad.html 
+
+Shaikh, R. (2018, October 28). Feature selection techniques in machine learning with python. Medium. Retrieved April 1, 2022, from https://towardsdatascience.com/feature-selection-techniques-in-machine-learning-with-python-f24e7da3f36e 
 
